@@ -29,7 +29,7 @@ const Layout = ({ children, data }) => (
           <html lang="en" />
           {/* noscript elements */}
           <noscript>{`
-              <p>You're visiting ajmalafif.com with Javascript disabled on your browser. Turn on JavaScript for best experience. Thank you!</p>
+              <header>You're visiting ajmalafif.com with Javascript disabled on your browser. Turn on JavaScript for best experience. Thank you!</header>
           `}</noscript>
 
         </Helmet>
