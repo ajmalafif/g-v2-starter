@@ -5,11 +5,10 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^2.0.0-rc.7",
-    "gatsby-plugin-google-tagmanager": "^1.0.19",
-    "gatsby-plugin-manifest": "next",
-    "gatsby-plugin-netlify": "^1.0.21",
-    "gatsby-plugin-offline": "next",
-    "gatsby-plugin-react-helmet": "next",
+    "gatsby-plugin-manifest": "^2.0.2-rc.1",
+    "gatsby-plugin-netlify": "^2.0.0-rc.1",
+    "gatsby-plugin-offline": "^2.0.0-rc.2",
+    "gatsby-plugin-react-helmet": "^3.0.0-rc.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-helmet": "^5.2.0"
